@@ -16,5 +16,5 @@ npm install
 npm start
 
 ## 打包
-npm build
+npm run build
 
