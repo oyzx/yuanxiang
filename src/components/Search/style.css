@@ -1,0 +1,37 @@
+.search {
+	display: flex;
+	align-items: center;
+	height: 40px;
+	background-color: #F44336;
+	border-radius: 10px 10px 0 0;
+}
+
+.search a {
+	color: #fff;
+}
+
+.search .qui-search {
+	display: flex;
+    color: #fff;
+    font-size: 15px;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.search .qui-search a{
+	margin-left: 20px;
+}
+
+.search .ant-input-group {
+	margin-left: 80px;
+	width: 400px;
+}
+
+.search .ant-select {
+	width: 80px;
+}
+
+.qui-search .ant-dropdown-menu {
+	background-color: #f44336;
+	color: #fff;
+}

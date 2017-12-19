@@ -1,0 +1,12 @@
+.main .main-home .main-home-right .module .yuanxiang-recommend{
+  width: 210px;
+  height: 100px;
+  margin-top: 5px;
+}
+
+.main .main-home .main-home-right .module .yuanxiang-recommend .content {
+  color: #fff;
+  text-align: center;
+  padding: 42px 0;
+  font-size: 15px;
+}

@@ -1,0 +1,37 @@
+.main-store-list .store-left .store-info {
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+
+.main-store-list .store-left .pagination {
+	display: flex;
+	justify-content: flex-end;
+    margin-right: 20px;
+}
+
+.main-store-list .store-right {
+	padding: 0 10px;
+}
+
+.main-store-list .store-right h2 {
+	color: rgb(244, 67, 54);
+    border-bottom: 2px solid #eee;
+}
+
+.main-store-list .store-right .top-store {
+	margin: 20px 0;
+}
+
+.main-store-list .store-right .top-store .top-left img {
+	width: 70px;
+	height: 50px;
+}
+
+.main-store-list .store-right .top-store .top-right {
+	margin-left: 10px;
+}
+
+.main-store-list .store-right .top-store .top-right .ant-rate-star {
+	width: 15px;
+	height: 15px;
+}

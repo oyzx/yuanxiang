@@ -1,0 +1,32 @@
+.logo-search {
+	display: flex;
+	margin: 30px auto;
+}
+
+.logo-search .ant-select-selection {
+	height: 40px;
+    padding-top: 7px;
+    font-size: 18px;
+}
+
+.logo-search .ant-select {
+	width: 14%;
+}
+
+.logo-search .ant-select-selection__rendered {
+	margin-right: 12px;
+}
+
+.logo-search .ant-select-arrow {
+	font-size: 18px;
+}
+
+.logo-search .search-main .search-child {
+	margin-left: 100px;
+	width: 600px;
+}
+
+.logo-search .ant-input-group input {
+	width: 80%;
+	height: 40px;
+}

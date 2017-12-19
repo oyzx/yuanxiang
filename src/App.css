@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  min-width: 1190px;
+}
+
+/*
+	Header,CarouselHr都用到的CSS
+*/
+.main {
+    margin: 0 auto;
+    width: 1190px;
+    align-items: center;
+}
+
+/*
+	回到顶点
+*/
+.ant-back-top-inner {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  border-radius: 4px;
+  background-color: #1088e9;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}

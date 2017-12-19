@@ -1,0 +1,9 @@
+.main .main-home .main-home-right {
+  width: 210px;
+  margin: 0 0 auto 0;
+  height: 100%;
+}
+
+.main .main-home .main-home-right .module {
+  margin-bottom: 20px;
+}

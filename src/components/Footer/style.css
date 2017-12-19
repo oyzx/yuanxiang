@@ -1,0 +1,10 @@
+.footer-main {
+	background-color: #eee;
+}
+
+.footer {
+	width: 1190px;
+	min-width: 1190px;
+	height: 300px;
+	margin: 0 auto;
+}

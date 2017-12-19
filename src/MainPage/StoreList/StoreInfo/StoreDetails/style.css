@@ -1,0 +1,25 @@
+.store-details {
+	height: 220px;
+	border: 1px solid #eee;
+	display: flex;
+}
+
+.store-details .store-img {
+	padding: 15px;
+}
+
+.store-details .store-text {
+	padding: 20px;
+}
+
+.store-details .store-text h3 {
+	margin: 5px auto;
+}
+
+.store-details .store-text .store-button {
+	margin: 35px 20px;
+}
+
+.store-details .store-text .store-button .ant-btn {
+	margin: 0 5px;
+}

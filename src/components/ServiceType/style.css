@@ -1,0 +1,19 @@
+.service-type {
+	width: 10%;
+}
+
+.service-type .services {
+	width: 100%;
+	padding: 12px 0;
+	font-size: 16px;
+	text-align: center;
+	border-bottom: 1px solid #eee;
+}
+
+.service-type .services a {
+	color: #262626;
+}
+
+.service-type .all a{
+	color: rgb(233, 32, 61);
+}

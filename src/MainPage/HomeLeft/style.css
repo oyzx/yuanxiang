@@ -1,0 +1,29 @@
+.main .main-home .main-home-left {
+  	width: 952px;
+}
+
+.main .main-home .main-home-left .service-product {
+  	display: flex;
+ 	margin: 60px auto;
+}
+
+.main .main-home .main-home-left .product-type {
+ 	width: 90%;
+  	padding: 12px 20px;
+}
+
+.main .main-home .main-home-left .product-type .product-active {
+	margin-bottom: 30px;
+}
+
+.main .main-home .main-home-left .product-type .product-active a {
+	font-size: 20px;
+  	color: #f36c60;
+}
+
+.main .main-home .main-home-left .product-type .product-active-details {
+	height: 300px;
+	width: 100%;
+	border: 1px solid #eee;
+	margin-top: 10px;
+}
